@@ -2,7 +2,7 @@
   <img src="zx.png" width="400"/>
   <h1>GMX Grid Trading Bot (FUTURES)</h1>
   <h3>Free Version (ARBITRUM ONLY)</h3>
-  <h3>Premium version: https://defix.agency/portfolio/gmx-arbitrum-futures-trading-bot/</h3>
+  <h3>Premium version: https://defiex.tech/portfolio/gmx-arbitrum-futures-trading-bot/</h3>
   <p>Actually profitable leverage trading bot using GMX API so it's completely decentralized trading without any form of deposit, withdraw nor KYC. I tested it for 4 months and made about 6-8% a month with 11x leverage, DYOR AND RISK MANAGE YOUR MONEY PROPERLY</p>
   
   <p>Thank you for all the stars! But please create issues with bugs so I can fix and improve the bot :)</p>
@@ -45,7 +45,7 @@ Follow the steps below
 
 OPTION 1, select your OS and download an executable GUI:
 
-[![OS](os.png)](https://defiex.tech//portfolio/gmx-bear-bull-market-grid-trading-bot-free/)
+[![OS](os.png)](https://defiex.tech/portfolio/gmx-bear-bull-market-grid-trading-bot-free/)
 
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
 
