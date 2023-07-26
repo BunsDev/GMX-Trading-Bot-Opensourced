@@ -3,3 +3,4 @@ pyperclip==1.8.2
 requests==2.27.1
 web3==5.27.0
 tradingview_ta
+Cython
