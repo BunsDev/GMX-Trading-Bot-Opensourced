@@ -52,6 +52,7 @@ OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
 0. Download the code and extract the zip then open the folder in Visual Studio Code
 1. type ```pip3 install -r requirements.txt``` in your terminal
 2. Run the bot with ```python3 gmx.pyw```
+3. If there is an error with tkinter go to your terminal and type "sudo apt-get install python3-tk" (Ubuntu)
 
 Good luck!
 
